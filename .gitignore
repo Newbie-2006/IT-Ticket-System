@@ -1,0 +1,12 @@
+node_modules/
+.next/
+.next-check/
+.next-final/
+.next-visual/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+*.key
